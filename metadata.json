@@ -1,0 +1,6 @@
+{
+  "name": "Stretch to Shoot",
+  "description": "An arcade-style body movement and stretching game using laptop webcam, MediaPipe pose tracking, cheerful procedural Web Audio synth, and a 3x3 dial pad grid.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
